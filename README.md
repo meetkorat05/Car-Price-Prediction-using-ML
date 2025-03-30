@@ -37,7 +37,6 @@ The data is sourced from Kaggle.
 | Deployment | Railway |
 
 ## 📷 Example Workflow
-
 1. Go to this [WebPage](https://web-production-2ed1.up.railway.app/)
 
 2 . Select the Car Compny.
