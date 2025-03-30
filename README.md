@@ -37,19 +37,20 @@ The data is sourced from Kaggle.
 | Deployment | Railway |
 
 ## 📷 Example Workflow
-1. Go to this [WebPage](https://web-production-2ed1.up.railway.app/)
 
-2 . Select the Car Compny.
+  Go to this [WebPage](https://web-production-2ed1.up.railway.app/)
 
-3 . Select the Car Model.
+1 . Select the Car Compny.
 
-4 . Select the Year of car Purchase.
+2 . Select the Car Model.
 
-5 . Select the Fuel Type.
+3 . Select the Year of car Purchase.
 
-6 . Enter the Number of Kilometres that the car has travelled.
+4 . Select the Fuel Type.
 
-7 . Click on Predict Price Button.
+5 . Enter the Number of Kilometres that the car has travelled.
+
+6 . Click on Predict Price Button.
 ## 📬 Contact
 
 If you have any questions, feel free to connect with me:
